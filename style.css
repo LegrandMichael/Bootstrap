@@ -1,0 +1,13 @@
+.row li {
+	list-style-type: none;
+	display: inline-block;
+	float: right;
+	padding-right: 1em;
+}
+
+.toto li {
+	list-style-type: none;
+	display: inline-block;
+	float: left;
+	padding-left: 1em;
+}
